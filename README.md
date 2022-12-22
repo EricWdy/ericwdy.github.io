@@ -14,4 +14,4 @@ Organized by MIT xPro and Emeritus and lasting for about ten months, the program
 - Random Walks
 - [PacMan Animation](https://ericwdy.github.io/PacMan)
 - [Bus between MIT and Harvard](https://ericwdy.github.io/bustracking)
-<a href="https://ericwdy.github.io/eyes">Eyes</a>
+- <a href="https://ericwdy.github.io/eyes">Eyes</a>
