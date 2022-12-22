@@ -1,5 +1,5 @@
 # Eyes
-
+<img src="eyes.gif" width=400 />
 An interesting front-end mouse-movement triggered animation. The eyeballs will follow your cursor wherever you point it to (but will not go out of sight!).
 
 ## How to run it:
