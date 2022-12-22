@@ -1,6 +1,6 @@
 # Eyes
 
-An interesting front-end mouse-following event triggered animation. The eyeballs will follow your cursor whereever you point it to (but will not go out of sight!).
+An interesting front-end mouse-movement triggered animation. The eyeballs will follow your cursor wherever you point it to (but will not go out of sight!).
 
 ## How to run it:
 1. Open index.html. You should see a pair of eyes in the middle of the page;
