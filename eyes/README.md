@@ -9,6 +9,7 @@ An interesting front-end mouse-movement triggered animation. The eyeballs will f
 ## Future improvement to be made:
 Maybe I will add a mouse-click event listener, so that on clicks the eyes can close and reopen!
 
+## License
 The MIT License (MIT)
 Copyright © 2022 <copyright holders>
 
