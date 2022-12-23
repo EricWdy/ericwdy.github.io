@@ -1,6 +1,6 @@
 # Bustracking animation
 An adapted MIT Full-Stack Developer Programme Assignment, with a custom marker as an improvement.
-The bus will travel along its troute from MIT to Harvard, stopping at each stop.
+The bus will travel along its troute from MIT to Harvard, stopping at each stop based on their real coordinates.
 ## How to run it
 By clicking the button on the top left-hand corner, you will see the animated bus stops from MIT to Harvard.
 The custom icon is from <a target="_blank" href="https://icons8.com/icon/dPjCHpwPoXXi/bus">Bus</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
