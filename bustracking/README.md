@@ -1,4 +1,17 @@
-# README
-This is an MIT Coding Assignment, with custom marker as an improvement.
+# Bustracking animation
+An adapted MIT Full-Stack Developer Programme Assignment, with a custom marker as an improvement.
+The bus will travel along its troute from MIT to Harvard, stopping at each stop.
+## How to run it
 By clicking the button on the top left-hand corner, you will see the animated bus stops from MIT to Harvard.
-<a target="_blank" href="https://icons8.com/icon/dPjCHpwPoXXi/bus">Bus</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+The custom icon is from <a target="_blank" href="https://icons8.com/icon/dPjCHpwPoXXi/bus">Bus</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+## Future improvements
+Connection to realtime data api to show realtime bustracking
+
+##The MIT License (MIT)
+Copyright © 2022 <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
